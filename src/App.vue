@@ -5,8 +5,8 @@ export default {
     data() {
         return {
             title: {
-                ru: 'Погодное приложение',
-                en: 'Weather App'
+                ru: 'Погодное приложение на Vue.js',
+                en: 'Weather App in Vue.js'
             },
             btn1: {
                 ru: 'Получить погоду',
