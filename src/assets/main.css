@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    height: 100vh;
+    background: rgb(255,94,0);
+    background: linear-gradient(113deg, rgba(255,94,0,1) 0%, rgba(235,87,20,1) 9%, rgba(215,79,40,1) 22%, rgba(150,55,106,1) 53%, rgba(134,49,122,1) 74%, rgba(64,23,194,1) 95%, rgba(4,0,255,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* body{
+    width: 100%;
+    height: 100vh;
+    background: rgb(255,94,0);
+    background: linear-gradient(113deg, rgba(255,94,0,1) 0%, rgba(235,87,20,1) 9%, rgba(215,79,40,1) 22%, rgba(150,55,106,1) 53%, rgba(134,49,122,1) 74%, rgba(64,23,194,1) 95%, rgba(4,0,255,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
